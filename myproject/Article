@@ -1,0 +1,306 @@
+<html>
+<head>
+<title>河北郑口中学 >> 文章中心 >> 新闻动态</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link href='/Skin/DefaultSkin.css' rel='stylesheet' type='text/css'> <script language='JavaScript' type='text/JavaScript' src='/js/menu.js'></script>
+<script type='text/javascript' language='JavaScript1.2' src='/js/stm31.js'></script>
+</head>
+<body leftmargin=0 topmargin=0  onmousemove='HideMenu()'>
+<div id=menuDiv style="Z-INDEX: 1000; VISIBILITY: hidden; WIDTH: 1px; POSITION: absolute; HEIGHT: 1px; BACKGROUND-COLOR: #9cc5f8">
+</div>
+<table class=top_tdbgall style="WORD-BREAK: break-all" cellSpacing=0 cellPadding=0 width=960 align=center border=0>
+    <tr>
+      <td vAlign=center align=left width=640 height=25>
+      <!--网站设为首页、加入收藏等显示代码-->
+      <!--网站主导航栏目显示代码-->
+      <td align=middle width=320 background=/Skin/MuYiZi/bg_all.jpg rowSpan=2><A href="/bbs/" target=_blank><IMG height=60 alt=精彩推荐，不容错过。 src="/Skin/MuYiZi/Good_Index.gif" width=320 border=0></A></td>
+    </tr>
+    <tr>
+      <td vAlign=center width=640 height=35>
+        <table height=30 cellSpacing=0 cellPadding=0 width="100%" align=left border=0>
+          <tr>
+            <td width=4><IMG height=30 src="/Skin/MuYiZi/dao_left.gif" width=4></td>
+            <td class=top_channel vAlign=center align=left background=/Skin/MuYiZi/bg_all.jpg>
+            <div align=left>&nbsp;|&nbsp;<a class='Channel' href='/Index.asp'>网站首页</a>&nbsp;|&nbsp;<a class='Channel2'  href='/Article/Index.asp' target='_blank' title=''>文章中心</a>&nbsp;|&nbsp;<a class='Channel'  href='/Soft/Index.asp' target='_blank' title=''>下载中心</a>&nbsp;|&nbsp;<a class='Channel'  href='/Photo/Index.asp' target='_blank' title=''>图片中心</a>&nbsp;|&nbsp;<a class='Channel'  href='/GuestBook/Index.asp' target='_blank' title=''>反馈中心</a>&nbsp;|&nbsp;<a class='Channel'  href='http://www.hbzkzx.com/bbs/' target='_blank' title=''>交流论坛</a>&nbsp;|&nbsp;<a class='Channel'  href='http://www.hbzkzx.com/xiaoyoulu/' target='_blank' title=''>校友录</a>&nbsp;|&nbsp;<a class='Channel'  href='http://121.17.165.33:7999/dj.asp?cat_id=17' target='_blank' title=''>视频中心</a>&nbsp;|&nbsp;</div></td>
+            <td width=4><IMG height=30 src="/Skin/MuYiZi/dao_right.gif" width=4></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!--网站顶部主导航频道居左显示代码结束-->
+  <!-- 网页顶部160*950代码开始 -->
+  <table class=top_tdbgall style="WORD-BREAK: break-all" borderColor=#f4f4f4 cellSpacing=0 cellPadding=0 width=960 align=center border=5>
+    <tr>
+      <td width=950 background=/Skin/MuYiZi/XiaoQiu_Title.jpg bgColor=#ffffff height=220>
+        <table cellSpacing=0 cellPadding=0 width="100%" border=0>
+          <tr>
+            <td>
+<OBJECT codeBase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0 height=160 width=950 classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000><PARAM NAME="_cx" VALUE="25135"><PARAM NAME="_cy" VALUE="4233"><PARAM NAME="FlashVars" VALUE=""><PARAM NAME="Movie" VALUE="/Skin/MuYiZi/banner.swf"><PARAM NAME="Src" VALUE="/Skin/MuYiZi/banner.swf"><PARAM NAME="WMode" VALUE="Transparent"><PARAM NAME="Play" VALUE="-1"><PARAM NAME="Loop" VALUE="-1"><PARAM NAME="Quality" VALUE="High"><PARAM NAME="SAlign" VALUE=""><PARAM NAME="Menu" VALUE="-1"><PARAM NAME="Base" VALUE=""><PARAM NAME="AllowScriptAccess" VALUE="always"><PARAM NAME="Scale" VALUE="ShowAll"><PARAM NAME="DeviceFont" VALUE="0"><PARAM NAME="EmbedMovie" VALUE="0"><PARAM NAME="BGColor" VALUE=""><PARAM NAME="SWRemote" VALUE=""><PARAM NAME="MovieData" VALUE=""><PARAM NAME="SeamlessTabbing" VALUE="1"><PARAM NAME="Profile" VALUE="0"><PARAM NAME="ProfileAddress" VALUE=""><PARAM NAME="ProfilePort" VALUE="0"><PARAM NAME="AllowNetworking" VALUE="all"><PARAM NAME="AllowFullScreen" VALUE="false">
+      <embed src="/Skin/MuYiZi/banner.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="950" height="160"></embed>
+                                                                                                              </OBJECT></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- 网页顶部160*950代码结束 -->
+  <!--网站顶部分类栏目导航居左显示代码开始-->
+  <table class=Bottom style="WORD-BREAK: break-all" height=35 cellSpacing=0 cellPadding=0 width=950 align=center border=0>
+    <tr>
+      <td width=4><IMG height=35 src="/Skin/MuYiZi/dao_left.gif" width=4></td>
+      <td vAlign=center align=left width=942 background=/Skin/MuYiZi/bg_all.jpg height=35>
+      <!--网站导航分类栏目显示代码-->
+<script language="JavaScript1.2" type="text/JavaScript" src="/Article/JS/ShowClass_Menu.js">
+                                                          </script></td>
+      <td width=4><IMG height=35 src="/Skin/MuYiZi/dao_right.gif" width=4></td>
+    </tr>
+    <tr>
+      <td height=5></td>
+    </tr>
+  </table>
+  <!--导航代码开始-->
+  <table class=top_Path style="WORD-BREAK: break-all" cellSpacing=0 cellPadding=0 width=960 align=center border=0>
+    <tr>
+      <td align=right width="4%"><IMG height=11 src="/Images/arrow4.gif" width=29></td>
+      <td width="76%">您现在的位置：&nbsp;<a class='LinkPath' href='http://www.hbzkzx.com'>河北郑口中学</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/Article/Index.asp'>文章中心</a>&nbsp;>>&nbsp;<a class='LinkPath' href='/Article/ShowClass.asp?ClassID=6'>新闻动态</a></td>
+      <td align=left width="20%"><FONT color=#000000>今天是： 
+<script language="JavaScript" type="text/JavaScript" src="/js/date.js">
+                                                            </script></FONT></td>
+    </tr>
+  </table>
+  <!--导航代码结束-->
+  <!--网站顶部分类栏目导航居左显示代码结束-->
+  <!-- ********网页顶部代码结束******** --> 
+<!-- ********网页顶部代码结束******** -->
+<!-- ********网页中部代码开始******** -->
+  <table class=center_tdbgall style="WORD-BREAK: break-all" cellSpacing=0 cellPadding=0 width=960 align=center border=0>
+    <tr>
+      <td class=left_tdbgall vAlign=top align=left width=200 height=250>
+      <!--中部中间200显示/隐藏层最新推荐文章、最新推荐图片文章代码开始-->
+        <table class=tdbg_top_right style="WORD-BREAK: break-all" height=250 cellSpacing=0 cellPadding=0 width=192 align=right bgColor=#ffffff>
+          <tr>
+            <td class=border vAlign=bottom width=190><SCRIPT language=JavaScript> 
+                      var aID=0;
+                        function ShowTabs2(ID){
+                        if(ID!=aID){
+                        TabTitle2[aID].className='menu_title1';
+                        TabTitle2[ID].className='menu_title2';
+                        Tabs2[aID].style.display='none';
+                        Tabs2[ID].style.display='';
+                        aID=ID;
+                         }
+                        }
+                    </SCRIPT> 
+              <table style="WORD-BREAK: break-all" cellSpacing=0 cellPadding=0 width=178 border=0>
+                <tr vAlign=bottom align=middle>
+                  <td class=menu_title2 id=TabTitle2 onmouseover=ShowTabs2(0) vAlign=bottom align=middle width=78 height=31>推荐图文</td>
+                  <td class=menu_title1 id=TabTitle2 onmouseover=ShowTabs2(1) vAlign=bottom align=middle width=78 height=31>热门信息</td>
+                  <td align=middle width=22 height=31></td>
+                </tr>
+                <tr align=middle>
+                  <td align=middle width=178 bgColor=#e0cda5 colSpan=3 height=2></td>
+                </tr>
+              </table>
+              <table style="WORD-BREAK: break-all" cellSpacing=0 cellPadding=0 width=178 align=center border=0>
+<TBODY id=Tabs2>
+                <tr>
+                  <td vAlign=top align=left height=450>
+                  <!--最新推荐图文显示代码-->
+                  <table width='100%' cellpadding='0' cellspacing='5' border='0' align='center'><tr valign='top'><td align='center'><a class="" href="/Article/ShowArticle.asp?ArticleID=940" title="文章标题：走进教室，听学生们讲他们如何面对压力
+作&nbsp;&nbsp;&nbsp;&nbsp;者：赵彩霞
+更新时间：2017-3-16 9:07:08" target="_blank"><img class='pic1' src='/Article/UploadFiles/201703/20170316091126452.jpg'  width='130' height='90' border='0'></a><br><a class="" href="/Article/ShowArticle.asp?ArticleID=940" title="文章标题：走进教室，听学生们讲他们如何面对压力
+作&nbsp;&nbsp;&nbsp;&nbsp;者：赵彩霞
+更新时间：2017-3-16 9:07:08" target="_blank">走进教室，听学生们讲</a></td></tr><tr valign='top'><td align='center'><a class="" href="/Article/ShowArticle.asp?ArticleID=938" title="文章标题：衡水市爱心联合会来我校慰问
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高三年级部
+更新时间：2017-3-15 8:09:37" target="_blank"><img class='pic1' src='/Article/UploadFiles/201703/20170315081045456.jpg'  width='130' height='90' border='0'></a><br><a class="" href="/Article/ShowArticle.asp?ArticleID=938" title="文章标题：衡水市爱心联合会来我校慰问
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高三年级部
+更新时间：2017-3-15 8:09:37" target="_blank">衡水市爱心联合会来我</a></td></tr><tr valign='top'><td align='center'><a class="" href="/Article/ShowArticle.asp?ArticleID=937" title="文章标题：深州中学高一年级部到我校参观交流
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高一年级部
+更新时间：2017-3-15 8:06:16" target="_blank"><img class='pic1' src='/Article/UploadFiles/201703/20170315080836902.jpg'  width='130' height='90' border='0'></a><br><a class="" href="/Article/ShowArticle.asp?ArticleID=937" title="文章标题：深州中学高一年级部到我校参观交流
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高一年级部
+更新时间：2017-3-15 8:06:16" target="_blank">深州中学高一年级部到</a></td></tr></table></td>
+                </tr>
+                <tr>
+                  <td vAlign=top align=left height=50><IMG height=46 src="/Skin/MuYiZi/XiaoQiu.net.jpg" width=178 align=absMiddle border=0></td>
+                </tr>
+<TBODY id=Tabs2 style="DISPLAY: none">
+                <tr>
+                  <td vAlign=top align=left height=450>
+                  <!--热门信息显示代码-->
+                  <table width="100%" cellpadding="0" cellspacing="0"><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=841" title="文章标题：郑口中学2016届考生外语口试成绩
+作&nbsp;&nbsp;&nbsp;&nbsp;者：郑口中学2016届考生外语口试成绩
+更新时间：2016-6-24 9:51:39" target="_blank">郑口中学2016届考生外语</a></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=840" title="文章标题：2016届毕业生军检体检考生名单
+作&nbsp;&nbsp;&nbsp;&nbsp;者：2016届毕业生军检合格名单
+更新时间：2016-6-24 9:46:50" target="_blank">2016届毕业生军检体检考</a></td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=839" title="文章标题：河北郑口中学2016高考大捷
+作&nbsp;&nbsp;&nbsp;&nbsp;者：政教处
+更新时间：2016-6-23 15:58:00" target="_blank"><font color="#FF0000">河北郑口中学2016高考大</font></a></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=838" title="文章标题：河北郑口中学2016高考大捷
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-6-23 15:03:41" target="_blank"><font color="#FF0000">河北郑口中学2016高考大</font></a></td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=837" title="文章标题：2016普通高等学校招生文理科一分一档统计表
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-6-23 11:05:05" target="_blank">2016普通高等学校招生文</a></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=836" title="文章标题：郑中云
+作&nbsp;&nbsp;&nbsp;&nbsp;者：政教处
+更新时间：2016-6-15 15:31:46" target="_blank">郑中云</a></td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=835" title="文章标题：2016高考备考精彩瞬间
+作&nbsp;&nbsp;&nbsp;&nbsp;者：政教处
+更新时间：2016-6-13 15:17:24" target="_blank">2016高考备考精彩瞬间</a></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=834" title="文章标题：郑口中学报考公安、司法、军队院校考生领取体检表通知
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-6-9 17:30:45" target="_blank"><font color="#FF0000">郑口中学报考公安、司法</font></a></td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=833" title="文章标题：2016年公安普通高等院校和公安现役院校招生相关表格3
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-6-9 17:29:20" target="_blank">2016年公安普通高等院校</a></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=830" title="文章标题：2016年公安普通高等院校和公安现役院校招生工作通知
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-6-9 17:08:02" target="_blank"><font color="#FF0000">2016年公安普通高等院校</font></a></td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=829" title="文章标题：2016年军队院校招收普通高中毕业生和普通高等学校招收国防生工作的通知
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2016-6-9 16:58:35" target="_blank"><font color="#FF0000">2016年军队院校招收普通</font></a></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=827" title="文章标题：我校高三师生用真情用诚心用全力备战2016高考
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高三年级部
+更新时间：2016-6-3 10:24:31" target="_blank">我校高三师生用真情用诚</a></td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=823" title="文章标题：高一年级召开百人“脱贫”提升动员大会
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高一年级部
+更新时间：2016-5-6 16:10:22" target="_blank">高一年级召开百人“脱贫</a></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=804" title="文章标题：我的教育故事
+作&nbsp;&nbsp;&nbsp;&nbsp;者：路仙
+更新时间：2016-3-31 17:05:06" target="_blank">我的教育故事</a></td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=785" title="文章标题：师生共庆高考
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2015-6-25 9:42:01" target="_blank">师生共庆高考</a></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=784" title="文章标题：2015军检合格名单
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2015-6-25 8:57:56" target="_blank"><font color="#FF0000">2015军检合格名单</font></a></td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_ontop.gif" alt="固顶文章"></td><td class="listbg"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=783" title="文章标题：2015高考捷报
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2015-6-23 22:38:48" target="_blank"><font color="#FF0000">2015高考捷报</font></a></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=782" title="文章标题：2015年河北省普通高校招生文理科一分一档统计表
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2015-6-23 21:23:11" target="_blank"><font color="#FF0000">2015年河北省普通高校招</font></a></td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_ontop.gif" alt="固顶文章"></td><td class="listbg"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=778" title="文章标题：河北郑口中学2015年高考捷报
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2015-6-23 18:01:54" target="_blank"><font color="#FF0000">河北郑口中学2015年高考</font></a></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_ontop.gif" alt="固顶文章"></td><td class="listbg2"><a class="listA" href="/Article/ShowArticle.asp?ArticleID=777" title="文章标题：2015年高考二本上线学生名单
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2015-6-23 17:13:01" target="_blank"><font color="#FF0000">2015年高考二本上线学生</font></a></td></tr><tr></tr></table></td>
+                </tr>
+                <tr>
+                  <td vAlign=top align=left height=50><IMG height=46 src="/Skin/MuYiZi/XiaoQiu.net.jpg" width=178 align=absMiddle border=0></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      <!--中部中间200显示/隐藏层最新推荐文章、最新推荐图片文章代码结束--></td>
+      <td vAlign=top align=left width=600>
+        <table class=tdbg_top_right style="WORD-BREAK: break-all" height=250 cellSpacing=0 cellPadding=0 width="100%" align=center bgColor=#ffffff>
+          <tr>
+            <td class=border vAlign=top align=left>
+              <table style="WORD-BREAK: break-all" cellSpacing=0 cellPadding=0 width="100%" border=0>
+                <tr>
+                  <td colSpan=2 height=28><IMG height=9 src="/Skin/MuYiZi/left_title2.gif" width=15 align=absMiddle border=0> 新闻动态文章列表</td>
+                </tr>
+                <tr>
+                  <td width="20%" bgColor=#a4813a height=2></td>
+                  <td width="80%" bgColor=#ecc981 height=2></td>
+                </tr>
+                <tr>
+                  <td width="20%" height=5></td>
+                  <td width="80%" height=5></td>
+                </tr>
+                <tr>
+                  <td class=main_tdbg_575 vAlign=top colSpan=2 height=460>
+                  <table width="100%" cellpadding="0" cellspacing="0"><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_ontop.gif" alt="固顶文章"></td><td class="listbg">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<a class="listA" href="/Article/ShowArticle.asp?ArticleID=945" title="文章标题：河北郑口中学教师招聘
+作&nbsp;&nbsp;&nbsp;&nbsp;者：河北郑口中学
+更新时间：2017-3-30 9:58:59" target="_blank"><font color="#FF0000">河北郑口中学教师招聘</font></a></td><td align="center" class="listbg" width="80">河北郑口…</td><td align="right" class="listbg" width="40"><font color="red">03-30</font></td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_ontop.gif" alt="固顶文章"></td><td class="listbg2">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline2">[组图]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=783" title="文章标题：2015高考捷报
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2015-6-23 22:38:48" target="_blank"><font color="#FF0000">2015高考捷报</font></a></td><td align="center" class="listbg2" width="80">佚名</td><td align="right" class="listbg2" width="40">06-23</td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_ontop.gif" alt="固顶文章"></td><td class="listbg">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<a class="listA" href="/Article/ShowArticle.asp?ArticleID=778" title="文章标题：河北郑口中学2015年高考捷报
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2015-6-23 18:01:54" target="_blank"><font color="#FF0000">河北郑口中学2015年高考捷报</font></a></td><td align="center" class="listbg" width="80">佚名</td><td align="right" class="listbg" width="40">06-23</td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_ontop.gif" alt="固顶文章"></td><td class="listbg2">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<a class="listA" href="/Article/ShowArticle.asp?ArticleID=777" title="文章标题：2015年高考二本上线学生名单
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2015-6-23 17:13:01" target="_blank"><font color="#FF0000">2015年高考二本上线学生名单</font></a></td><td align="center" class="listbg2" width="80">佚名</td><td align="right" class="listbg2" width="40">06-23</td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_ontop.gif" alt="固顶文章"></td><td class="listbg">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<a class="listA" href="/Article/ShowArticle.asp?ArticleID=776" title="文章标题：2015年高考一本上线学生名单
+作&nbsp;&nbsp;&nbsp;&nbsp;者：佚名
+更新时间：2015-6-23 17:03:07" target="_blank"><font color="#FF0000">2015年高考一本上线学生名单</font></a></td><td align="center" class="listbg" width="80">佚名</td><td align="right" class="listbg" width="40">06-23</td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<a class="listA" href="/Article/ShowArticle.asp?ArticleID=942" title="文章标题：枣强中学部分教师来我校交流座谈
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高二年级部
+更新时间：2017-3-17 17:06:35" target="_blank">枣强中学部分教师来我校交流座谈</a></td><td align="center" class="listbg2" width="80">高二年级…</td><td align="right" class="listbg2" width="40">03-17</td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline2">[组图]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=940" title="文章标题：走进教室，听学生们讲他们如何面对压力
+作&nbsp;&nbsp;&nbsp;&nbsp;者：赵彩霞
+更新时间：2017-3-16 9:07:08" target="_blank">走进教室，听学生们讲他们如何面对压</a></td><td align="center" class="listbg" width="80">赵彩霞</td><td align="right" class="listbg" width="40">03-16</td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<a class="listA" href="/Article/ShowArticle.asp?ArticleID=939" title="文章标题：提高质量要从限时、定量、监管要效益
+作&nbsp;&nbsp;&nbsp;&nbsp;者：王桂莲
+更新时间：2017-3-15 8:10:57" target="_blank">提高质量要从限时、定量、监管要效益</a></td><td align="center" class="listbg2" width="80">王桂莲</td><td align="right" class="listbg2" width="40">03-15</td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline1">[图文]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=938" title="文章标题：衡水市爱心联合会来我校慰问
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高三年级部
+更新时间：2017-3-15 8:09:37" target="_blank">衡水市爱心联合会来我校慰问</a></td><td align="center" class="listbg" width="80">高三年级…</td><td align="right" class="listbg" width="40">03-15</td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline2">[组图]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=937" title="文章标题：深州中学高一年级部到我校参观交流
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高一年级部
+更新时间：2017-3-15 8:06:16" target="_blank">深州中学高一年级部到我校参观交流</a></td><td align="center" class="listbg2" width="80">高一年级…</td><td align="right" class="listbg2" width="40">03-15</td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline2">[组图]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=936" title="文章标题：用真情弘扬正能量&nbsp;&nbsp;&nbsp;用才华赢得满堂彩
+作&nbsp;&nbsp;&nbsp;&nbsp;者：曹瑞莹
+更新时间：2017-3-8 14:45:35" target="_blank">用真情弘扬正能量&nbsp;&nbsp;&nbsp;用才华赢得满堂彩</a></td><td align="center" class="listbg" width="80">曹瑞莹</td><td align="right" class="listbg" width="40">03-08</td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline2">[组图]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=935" title="文章标题：抓落实首先从周考做起
+作&nbsp;&nbsp;&nbsp;&nbsp;者：王桂莲
+更新时间：2017-3-8 14:40:37" target="_blank">抓落实首先从周考做起</a></td><td align="center" class="listbg2" width="80">王桂莲</td><td align="right" class="listbg2" width="40">03-08</td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline2">[组图]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=934" title="文章标题：我校高一年级举办“男子汉”主题讲座
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高一年级部
+更新时间：2017-3-7 16:50:35" target="_blank">我校高一年级举办“男子汉”主题讲座</a></td><td align="center" class="listbg" width="80">高一年级…</td><td align="right" class="listbg" width="40">03-07</td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<a class="listA" href="/Article/ShowArticle.asp?ArticleID=933" title="文章标题：抓落实首先从周考做起
+作&nbsp;&nbsp;&nbsp;&nbsp;者：王桂莲
+更新时间：2017-3-7 16:49:17" target="_blank">抓落实首先从周考做起</a></td><td align="center" class="listbg2" width="80">王桂莲</td><td align="right" class="listbg2" width="40">03-07</td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline2">[组图]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=932" title="文章标题：精心、尽心、专心、细心
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高三年级部 王宏伟
+更新时间：2017-2-28 15:38:23" target="_blank">精心、尽心、专心、细心</a></td><td align="center" class="listbg" width="80">高三年级…</td><td align="right" class="listbg" width="40">02-28</td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline2">[组图]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=930" title="文章标题：我校举行新党员入党宣誓仪式
+作&nbsp;&nbsp;&nbsp;&nbsp;者：办公室
+更新时间：2017-2-27 16:46:27" target="_blank">我校举行新党员入党宣誓仪式</a></td><td align="center" class="listbg2" width="80">办公室</td><td align="right" class="listbg2" width="40">02-27</td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline1">[图文]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=929" title="文章标题：新春喜报
+作&nbsp;&nbsp;&nbsp;&nbsp;者：刁留印
+更新时间：2017-2-27 16:45:20" target="_blank">新春喜报</a></td><td align="center" class="listbg" width="80">刁留印</td><td align="right" class="listbg" width="40">02-27</td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<a class="listA" href="/Article/ShowArticle.asp?ArticleID=928" title="文章标题：我校召开全体行政干部会
+作&nbsp;&nbsp;&nbsp;&nbsp;者：办公室
+更新时间：2017-2-27 16:44:19" target="_blank">我校召开全体行政干部会</a></td><td align="center" class="listbg2" width="80">办公室</td><td align="right" class="listbg2" width="40">02-27</td></tr><tr><td width="10" valign="top" class="listbg"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline1">[图文]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=927" title="文章标题：2016---2017学年上学期优秀班主任
+作&nbsp;&nbsp;&nbsp;&nbsp;者：政教处
+更新时间：2017-2-24 14:45:56" target="_blank">2016---2017学年上学期优秀班主任</a></td><td align="center" class="listbg" width="80">政教处</td><td align="right" class="listbg" width="40">02-24</td></tr><tr><td width="10" valign="top" class="listbg2"><img src="/Article/images/article_common.gif" alt="普通文章"></td><td class="listbg2">[<a class="listA" href="/Article/ShowClass.asp?ClassID=35">校园简讯</a>]<span class="S_headline1">[图文]</span><a class="listA" href="/Article/ShowArticle.asp?ArticleID=926" title="文章标题：2016---2017学年上学期奉献之星
+作&nbsp;&nbsp;&nbsp;&nbsp;者：政教处
+更新时间：2017-2-24 14:42:06" target="_blank">2016---2017学年上学期奉献之星</a></td><td align="center" class="listbg2" width="80">政教处</td><td align="right" class="listbg2" width="40">02-24</td></tr><tr></tr></table></td>
+                </tr>
+                <tr>
+                  <td colSpan=2 height=20><div class="show_page">共 <b>449</b> 篇文章&nbsp;&nbsp;首页 上一页&nbsp;<a href='/Article/ShowClass.asp?ClassID=6&page=2'>下一页</a>&nbsp;<a href='/Article/ShowClass.asp?ClassID=6&page=23'>尾页</a>&nbsp;页次：<strong><font color=red>1</font>/23</strong>页 &nbsp;<b>20</b>篇文章/页&nbsp;&nbsp;转到第<Input type='text' name='page' size='3' maxlength='5' value='1' onKeyPress="if (event.keyCode==13) window.location='/Article/ShowClass.asp?ClassID=6&page='+this.value;">页</div></td>
+                </tr>
+                <tr>
+                  <td class=main_shadow colSpan=2></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td class=tdbg_top_right vAlign=top align=left width=165>
+        <table class=border style="WORD-BREAK: break-all" cellSpacing=0 cellPadding=0 width="100%">
+          <tr>
+            <td>
+            <table width='100%' cellpadding='0' cellspacing='5' border='0' align='center'><tr valign='top'><td align='center'><a class="" href="/Article/ShowArticle.asp?ArticleID=940" title="文章标题：走进教室，听学生们讲他们如何面对压力
+作&nbsp;&nbsp;&nbsp;&nbsp;者：赵彩霞
+更新时间：2017-3-16 9:07:08" target="_blank"><img class='pic1' src='/Article/UploadFiles/201703/20170316091126452.jpg'  width='130' height='90' border='0'></a><br><a class="" href="/Article/ShowArticle.asp?ArticleID=940" title="文章标题：走进教室，听学生们讲他们如何面对压力
+作&nbsp;&nbsp;&nbsp;&nbsp;者：赵彩霞
+更新时间：2017-3-16 9:07:08" target="_blank">走进教室，听学生们讲</a></td></tr><tr valign='top'><td align='center'><a class="" href="/Article/ShowArticle.asp?ArticleID=938" title="文章标题：衡水市爱心联合会来我校慰问
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高三年级部
+更新时间：2017-3-15 8:09:37" target="_blank"><img class='pic1' src='/Article/UploadFiles/201703/20170315081045456.jpg'  width='130' height='90' border='0'></a><br><a class="" href="/Article/ShowArticle.asp?ArticleID=938" title="文章标题：衡水市爱心联合会来我校慰问
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高三年级部
+更新时间：2017-3-15 8:09:37" target="_blank">衡水市爱心联合会来我</a></td></tr><tr valign='top'><td align='center'><a class="" href="/Article/ShowArticle.asp?ArticleID=937" title="文章标题：深州中学高一年级部到我校参观交流
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高一年级部
+更新时间：2017-3-15 8:06:16" target="_blank"><img class='pic1' src='/Article/UploadFiles/201703/20170315080836902.jpg'  width='130' height='90' border='0'></a><br><a class="" href="/Article/ShowArticle.asp?ArticleID=937" title="文章标题：深州中学高一年级部到我校参观交流
+作&nbsp;&nbsp;&nbsp;&nbsp;者：高一年级部
+更新时间：2017-3-15 8:06:16" target="_blank">深州中学高一年级部到</a></td></tr><tr valign='top'><td align='center'><a class="" href="/Article/ShowArticle.asp?ArticleID=936" title="文章标题：用真情弘扬正能量&nbsp;&nbsp;&nbsp;用才华赢得满堂彩
+作&nbsp;&nbsp;&nbsp;&nbsp;者：曹瑞莹
+更新时间：2017-3-8 14:45:35" target="_blank"><img class='pic1' src='/Article/UploadFiles/201703/20170308145429379.jpg'  width='130' height='90' border='0'></a><br><a class="" href="/Article/ShowArticle.asp?ArticleID=936" title="文章标题：用真情弘扬正能量&nbsp;&nbsp;&nbsp;用才华赢得满堂彩
+作&nbsp;&nbsp;&nbsp;&nbsp;者：曹瑞莹
+更新时间：2017-3-8 14:45:35" target="_blank">用真情弘扬正能量&nbsp;&nbsp;&nbsp;用</a></td></tr></table></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <!-- ********网页中部代码结束******** -->
+  <!-- ********网页底部代码开始******** --><table class=bottom_tdbgall style="WORD-BREAK: break-all" borderColor=#f4f4f4 cellSpacing=0 cellPadding=0 width=960 align=center bgColor=#ffffff border=5>
+    <tr>
+      <td class=Bottom_Adminlogo vAlign=center align=middle width=960 colSpan=3 height=30>
+      <div align=center>| <A class=Bottom title=网站地图 href="/SiteMap.asp" target=_blank>网站地图</A> |<STRONG><FONT color=#ffff00> </FONT></STRONG><A class=Bottom href="/Copyright.asp" target=_blank>版权申明</A> | <A class=Bottom onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.hbzkzx.com');" href="/#">设为首页</A> | <A class=Bottom onclick="javascript:window.external.addFavorite('http://www.hbzkzx.com','郑口中学');" href="/#">加入收藏</A> | <A class=Bottom title=友情链接 href="/FriendSite/" target=_blank>友情链接</A> | <A class=Bottom title=用户留言 href="/GuestBook/" target=_blank>用户留言</A> ||  <a class='Bottom' href='/Admin/Admin_Index.asp' target='_blank'>管理登录</a>&nbsp;|&nbsp; </div></td>
+        <tr>
+          <td class=bottom_copyright width=960 height=60>
+            <table cellSpacing=0 cellPadding=0 width="100%" border=0>
+              <tr>
+                <td align=middle height=20>
+<div align=center>河北郑口中学 ┋ 电话：0318-5389000 ┋ 传真：0318-5388611 </div>
+                <div align=center>故城县四方电脑有限公司提供技术支持 河北郑口中学网络信息中心制作维护</div></td>
+              </tr>
+              <tr>
+                <td align=middle height=20>
+                <div align=center>Copyright&copy;2007－2010 Www.hbzkzx.com All Rights Reserved</div></td>
+              </tr>
+              <tr>
+                <td align=middle height=20>
+<div align=center>
+                <script src='http://s127.cnzz.com/stat.php?id=574568&web_id=574568&online=1&show=line' language='JavaScript' charset='gb2312'></script> <A href="http://www.miibeian.gov.cn/" target=_blank>冀ICP备09016926号</A><BR></div></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table> 
+  <!-- ********网页底部代码结束******** -->
+</body>
+</html>
